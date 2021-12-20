@@ -1,4 +1,4 @@
-# Deep-Reinforcement-Learning-for-Gomoku-Game
+# Deep-Strategical-Reinforcement-Learning-for-Gomoku-Game
 
 This is a course project of ELEN 6885 Reinforcement Learning.
 
