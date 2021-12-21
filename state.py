@@ -1,3 +1,6 @@
+import numpy as np
+import pickle
+
 class State:
     def __init__(self, p1, p2, Board_size=15, Win_streak=5):
         self.board = np.zeros((Board_size, Board_size))
