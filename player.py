@@ -1,3 +1,6 @@
+import numpy as np
+import pickle
+
 class Player:
     def __init__(self, name, exp_rate=0.3, Board_size=15):
         self.name = name
